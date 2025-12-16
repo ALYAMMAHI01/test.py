@@ -1,0 +1,97 @@
+Why we use python?
+
+
+simple and readable syntax (easy to learn)
+Works for many fields: web, data science, AI, automation, games, etc.
+Huge community and library support
+Faster development time compared to low-level languages
+
+
+Advantages:
+
+
+Easy to learn and read 
+
+Syntax is close to English
+Fewer lines of code
+print("Hello, World!")
+
+2.  Versatile (Multi-Purpose)
+
+Web development (Django, Flask)
+Data science & AI (Pandas, NumPy, TensorFlow)
+Automation & scripting
+Machine learning
+Game development
+Cybersecurity
+
+3.  Large Library Ecosystem
+
+Thousands of built-in and third-party libraries
+
+Saves time and effort
+
+ 
+4. Cross-Platform
+
+Runs on Windows, macOS, Linux without changes
+
+5. Strong Community Support
+
+Easy to find help, tutorials, and documentation
+
+6. Rapid Development
+
+Faster coding → faster testing faster deployment
+
+
+Disadvantages:
+
+
+1. Slower Execution Speed
+
+Interpreted language
+
+Slower than C, C++, or Java for performance-critical tasks
+
+2. High Memory Usage
+
+Uses more memory than low-level languages
+
+3. Not Ideal for Mobile Apps
+
+Rarely used for Android or iOS native apps
+
+4. Runtime Errors
+
+Errors appear while running the program (not before)
+
+5. Weak in Low-Level Programming
+
+Not suitable for OS kernels or device drivers
+
+
+Summary:
+
+Python is used because it is easy to learn, readable, and versatile. It helps developers build programs quickly for web development, data science, AI, and automation.
+
+Advantages:
+
+Simple and beginner-friendly
+
+Supports many applications
+
+Large libraries and strong community
+
+Works on all platforms
+
+Disadvantages:
+
+Slower than some other languages
+
+Uses more memory
+
+Not ideal for mobile apps or low-level programming
+
+Overall: Python is best for fast development and learning, but not for high-performance or system-level tasks.
+
