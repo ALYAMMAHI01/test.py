@@ -1,0 +1,10 @@
+GITHUB account :
+User: ALYAMMAHI01
+Email: bindawei01@gmail.com
+
+# print built in function used to display output on the screen.
+# ("hello, GitHub") this is a strings text string text must be inside quotation marks.
+# in python any text must be written inside quotation marks (" ",or' ').
+print("hello, GitHub")
+print("I wrote my first python code")
+I wrote my first python code
